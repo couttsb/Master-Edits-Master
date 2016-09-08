@@ -1,6 +1,6 @@
 
 public class MasterEditsMaster {
 	public static void main(String[] args) {
-		System.out.println("Now we are going into the edits branch for doing lots of work!");
+		System.out.println("I'm tired so we are going to go back to the master list!");
 	}
 }
